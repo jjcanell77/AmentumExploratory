@@ -1,0 +1,743 @@
+{
+  "Version": 1,
+  "Hash": "o8BWMpaZ4h84Le6VcWeG/skUvMCQVtVHGpFvTEefQ6k=",
+  "Source": "AmentumExploratory",
+  "BasePath": "_content/AmentumExploratory",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AmentumExploratory\\wwwroot",
+      "Source": "AmentumExploratory",
+      "ContentRoot": "C:\\SF.Code\\AmentumExploratory\\wwwroot\\",
+      "BasePath": "_content/AmentumExploratory",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\SF.Code\\AmentumExploratory\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AmentumExploratory.styles.css",
+      "SourceId": "AmentumExploratory",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\SF.Code\\AmentumExploratory\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/AmentumExploratory",
+      "RelativePath": "AmentumExploratory#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "kafylpgh9b",
+      "Integrity": "7Prknb0DpxFgGHfqyv8iehS6RgDEzUFHiCjp2WrhAGg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\SF.Code\\AmentumExploratory\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AmentumExploratory.styles.css"
+    },
+    {
+      "Identity": "C:\\SF.Code\\AmentumExploratory\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AmentumExploratory.bundle.scp.css",
+      "SourceId": "AmentumExploratory",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\SF.Code\\AmentumExploratory\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/AmentumExploratory",
+      "RelativePath": "AmentumExploratory#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "kafylpgh9b",
+      "Integrity": "7Prknb0DpxFgGHfqyv8iehS6RgDEzUFHiCjp2WrhAGg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\SF.Code\\AmentumExploratory\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AmentumExploratory.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\SF.Code\\AmentumExploratory\\wwwroot\\app.css",
+      "SourceId": "AmentumExploratory",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\SF.Code\\AmentumExploratory\\wwwroot\\",
+      "BasePath": "_content/AmentumExploratory",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bb7vtrz2em",
+      "Integrity": "x29ebVSlwJdhJxQCtbAb7P+QJynmLAVebCtCfzA1xSc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\SF.Code\\AmentumExploratory\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "AmentumExploratory",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\SF.Code\\AmentumExploratory\\wwwroot\\",
+      "BasePath": "_content/AmentumExploratory",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bpk8xqwxhs",
+      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\SF.Code\\AmentumExploratory\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "AmentumExploratory",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\SF.Code\\AmentumExploratory\\wwwroot\\",
+      "BasePath": "_content/AmentumExploratory",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\SF.Code\\AmentumExploratory\\wwwroot\\ed_white_feature.jpg",
+      "SourceId": "AmentumExploratory",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\SF.Code\\AmentumExploratory\\wwwroot\\",
+      "BasePath": "_content/AmentumExploratory",
+      "RelativePath": "ed_white_feature#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8gqzexplwc",
+      "Integrity": "qDLTXyhiGNZcrblfbmEYtxRARO3h7zSBTPc8ySPpA8I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ed_white_feature.jpg"
+    },
+    {
+      "Identity": "C:\\SF.Code\\AmentumExploratory\\wwwroot\\favicon.png",
+      "SourceId": "AmentumExploratory",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\SF.Code\\AmentumExploratory\\wwwroot\\",
+      "BasePath": "_content/AmentumExploratory",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zn32g13a67",
+      "Integrity": "D+MDYhqrrmQKlHyojSJCOuKlQF6UmzFW6BJVVXQ1/XU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "AmentumExploratory.bundle.scp.css",
+      "AssetFile": "C:\\SF.Code\\AmentumExploratory\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AmentumExploratory.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1375"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7Prknb0DpxFgGHfqyv8iehS6RgDEzUFHiCjp2WrhAGg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 21:37:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7Prknb0DpxFgGHfqyv8iehS6RgDEzUFHiCjp2WrhAGg="
+        }
+      ]
+    },
+    {
+      "Route": "AmentumExploratory.kafylpgh9b.bundle.scp.css",
+      "AssetFile": "C:\\SF.Code\\AmentumExploratory\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AmentumExploratory.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1375"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7Prknb0DpxFgGHfqyv8iehS6RgDEzUFHiCjp2WrhAGg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 21:37:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kafylpgh9b"
+        },
+        {
+          "Name": "label",
+          "Value": "AmentumExploratory.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7Prknb0DpxFgGHfqyv8iehS6RgDEzUFHiCjp2WrhAGg="
+        }
+      ]
+    },
+    {
+      "Route": "AmentumExploratory.kafylpgh9b.styles.css",
+      "AssetFile": "C:\\SF.Code\\AmentumExploratory\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AmentumExploratory.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1375"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7Prknb0DpxFgGHfqyv8iehS6RgDEzUFHiCjp2WrhAGg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 21:37:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kafylpgh9b"
+        },
+        {
+          "Name": "label",
+          "Value": "AmentumExploratory.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7Prknb0DpxFgGHfqyv8iehS6RgDEzUFHiCjp2WrhAGg="
+        }
+      ]
+    },
+    {
+      "Route": "AmentumExploratory.styles.css",
+      "AssetFile": "C:\\SF.Code\\AmentumExploratory\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AmentumExploratory.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1375"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7Prknb0DpxFgGHfqyv8iehS6RgDEzUFHiCjp2WrhAGg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 21:37:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7Prknb0DpxFgGHfqyv8iehS6RgDEzUFHiCjp2WrhAGg="
+        }
+      ]
+    },
+    {
+      "Route": "app.bb7vtrz2em.css",
+      "AssetFile": "C:\\SF.Code\\AmentumExploratory\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2723"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x29ebVSlwJdhJxQCtbAb7P+QJynmLAVebCtCfzA1xSc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 19:53:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bb7vtrz2em"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x29ebVSlwJdhJxQCtbAb7P+QJynmLAVebCtCfzA1xSc="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\SF.Code\\AmentumExploratory\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2723"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x29ebVSlwJdhJxQCtbAb7P+QJynmLAVebCtCfzA1xSc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 19:53:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x29ebVSlwJdhJxQCtbAb7P+QJynmLAVebCtCfzA1xSc="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "C:\\SF.Code\\AmentumExploratory\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 19:53:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\SF.Code\\AmentumExploratory\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 19:53:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\SF.Code\\AmentumExploratory\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 19:53:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\SF.Code\\AmentumExploratory\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 19:53:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "ed_white_feature.8gqzexplwc.jpg",
+      "AssetFile": "C:\\SF.Code\\AmentumExploratory\\wwwroot\\ed_white_feature.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qDLTXyhiGNZcrblfbmEYtxRARO3h7zSBTPc8ySPpA8I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 19:53:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8gqzexplwc"
+        },
+        {
+          "Name": "label",
+          "Value": "ed_white_feature.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qDLTXyhiGNZcrblfbmEYtxRARO3h7zSBTPc8ySPpA8I="
+        }
+      ]
+    },
+    {
+      "Route": "ed_white_feature.jpg",
+      "AssetFile": "C:\\SF.Code\\AmentumExploratory\\wwwroot\\ed_white_feature.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "207330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qDLTXyhiGNZcrblfbmEYtxRARO3h7zSBTPc8ySPpA8I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 19:53:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qDLTXyhiGNZcrblfbmEYtxRARO3h7zSBTPc8ySPpA8I="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "C:\\SF.Code\\AmentumExploratory\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5881"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D+MDYhqrrmQKlHyojSJCOuKlQF6UmzFW6BJVVXQ1/XU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 19:53:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D+MDYhqrrmQKlHyojSJCOuKlQF6UmzFW6BJVVXQ1/XU="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.zn32g13a67.png",
+      "AssetFile": "C:\\SF.Code\\AmentumExploratory\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5881"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D+MDYhqrrmQKlHyojSJCOuKlQF6UmzFW6BJVVXQ1/XU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Dec 2024 19:53:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zn32g13a67"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D+MDYhqrrmQKlHyojSJCOuKlQF6UmzFW6BJVVXQ1/XU="
+        }
+      ]
+    }
+  ]
+}

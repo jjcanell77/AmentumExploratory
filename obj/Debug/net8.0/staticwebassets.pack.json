@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\SF.Code\\AmentumExploratory\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AmentumExploratory.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AmentumExploratory.kafylpgh9b.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\SF.Code\\AmentumExploratory\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\SF.Code\\AmentumExploratory\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\SF.Code\\AmentumExploratory\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\SF.Code\\AmentumExploratory\\wwwroot\\ed_white_feature.jpg",
+      "PackagePath": "staticwebassets\\ed_white_feature.jpg"
+    },
+    {
+      "Id": "C:\\SF.Code\\AmentumExploratory\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AmentumExploratory.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AmentumExploratory.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AmentumExploratory.props",
+      "PackagePath": "build\\AmentumExploratory.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AmentumExploratory.props",
+      "PackagePath": "buildMultiTargeting\\AmentumExploratory.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AmentumExploratory.props",
+      "PackagePath": "buildTransitive\\AmentumExploratory.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
