@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AmentumExploratory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+429cea81f8072c6eb8549ade7b663949856ac27f")]
 [assembly: System.Reflection.AssemblyProductAttribute("AmentumExploratory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AmentumExploratory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

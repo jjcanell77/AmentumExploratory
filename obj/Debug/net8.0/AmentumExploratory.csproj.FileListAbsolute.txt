@@ -169,3 +169,4 @@ C:\SF.Code\AmentumExploratory\obj\Debug\net8.0\refint\AmentumExploratory.dll
 C:\SF.Code\AmentumExploratory\obj\Debug\net8.0\AmentumExploratory.pdb
 C:\SF.Code\AmentumExploratory\obj\Debug\net8.0\AmentumExploratory.genruntimeconfig.cache
 C:\SF.Code\AmentumExploratory\obj\Debug\net8.0\ref\AmentumExploratory.dll
+C:\SF.Code\AmentumExploratory\obj\Debug\net8.0\AmentumExploratory.sourcelink.json

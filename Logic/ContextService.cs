@@ -12,5 +12,11 @@
 
             PageVisits.Add((route, location, time));
         }
+
+        public bool IsTrackedRoute(string route)
+        {
+            return availableRoutes.Contains(route);
+        }
+
     }
 }

@@ -16,7 +16,11 @@ namespace AmentumExploratory.Logic
         public Task Invoke(HttpContext httpContext, ContextService contextService)
         {
 
-           contextService.Register(httpContext.Request.Path, httpContext.Connection.RemoteIpAddress?.ToString() ?? "", DateTime.Now);        
+            String route = httpContext.Request.Path.ToString();
+            if (contextService.IsTrackedRoute(route))
+            {
+                contextService.Register(route, httpContext.Connection.RemoteIpAddress?.ToString() ?? "", DateTime.Now);
+            }
 
             return _next(httpContext);
         }
