@@ -31,9 +31,10 @@ namespace AmentumExploratory.Components.Pages
 
         public void Filter()
         {
-            this.FilteredList = Contacts.Where(x => x.Name!.Contains(SearchText)).ToList();
-            this.FilteredList = Contacts.Where(x => x.Email!.Contains(SearchText)).ToList();
-            this.FilteredList = Contacts.Where(x => Filters.Contains(x.Reason)).ToList();
+            this.FilteredList = Contacts
+                .Where(x => 
+                    (x.Name!.Contains(SearchText) || x.Email!.Contains(SearchText))
+                    && Filters.Contains(x.Reason)).ToList();
         }
     }
 }
