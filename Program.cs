@@ -23,6 +23,7 @@ namespace AmentumExploratory
 
             builder.Services.AddScoped<DataAccessService>();
             builder.Services.AddSingleton<ContextService>();
+            builder.Services.AddSingleton<INotificationService, NotificationService>();
 
             var app = builder.Build();
 

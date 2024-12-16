@@ -9,4 +9,11 @@ namespace AmentumExploratory
         Pricing,
         Other
     }
+    public enum NotificationType
+    {
+        Info,
+        Success,
+        Warning,
+        Error
+    }
 }
