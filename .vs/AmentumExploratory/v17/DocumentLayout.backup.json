@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{1DF2EC39-C394-4EBD-8573-4C1B2F9CE252}|AmentumExploratory.csproj|solutionrelative:components\\pages\\lostcss.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DF2EC39-C394-4EBD-8573-4C1B2F9CE252}|AmentumExploratory.csproj|c:\\sf.code\\amentumexploratory\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{1DF2EC39-C394-4EBD-8573-4C1B2F9CE252}|AmentumExploratory.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1DF2EC39-C394-4EBD-8573-4C1B2F9CE252}|AmentumExploratory.csproj|c:\\sf.code\\amentumexploratory\\components\\pages\\contactform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1DF2EC39-C394-4EBD-8573-4C1B2F9CE252}|AmentumExploratory.csproj|solutionrelative:components\\pages\\contactform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -21,8 +17,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 113,
-          "SelectedChildIndex": 4,
+          "DockedWidth": 19,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,19 +31,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\SF.Code\\AmentumExploratory\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\SF.Code\\AmentumExploratory\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAADEAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-12-09T21:45:08.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "ContactForm.razor",
               "DocumentMoniker": "C:\\SF.Code\\AmentumExploratory\\Components\\Pages\\ContactForm.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\ContactForm.razor",
@@ -57,7 +40,13 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-12T18:26:05.765Z",
               "EditorCaption": ""
-            },
+            }
+          ]
+        },
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -66,7 +55,7 @@
               "RelativeDocumentMoniker": "Components\\Pages\\LostCSS.razor",
               "ToolTip": "C:\\SF.Code\\AmentumExploratory\\Components\\Pages\\LostCSS.razor*",
               "RelativeToolTip": "Components\\Pages\\LostCSS.razor*",
-              "ViewState": "AgIAACEAAAAAAAAAAAAIwCsAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAADwv04AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-12T18:25:44.484Z",
               "EditorCaption": ""
